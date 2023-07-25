@@ -1,0 +1,606 @@
+[
+    {
+        "name": "FRONTEND",
+        "chapter": "FRONTEND",
+        "userStories": [
+            {
+                "name": "HU-001: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT"
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION"
+                    },
+                    {
+                        "name": "TEST UNITARIOS"
+                    },
+                    {
+                        "name": "ATOMIC DESIGN"
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS"
+                    },
+                    {
+                        "name": "SONARLINT"
+                    }
+                ]
+            },
+            {
+                "name": "HU-002: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT"
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION"
+                    },
+                    {
+                        "name": "ATOMIC DESIGN"
+                    },
+                    {
+                        "name": "TEST UNITARIOS"
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS"
+                    },
+                    {
+                        "name": "SONARLINT"
+                    }
+                ]
+            },
+            {
+                "name": "HU-003: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT"
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION"
+                    },
+                    {
+                        "name": "ARQUITECTURA HEXAGONAL"
+                    },
+                    {
+                        "name": "TEST UNITARIOS"
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS"
+                    },
+                    {
+                        "name": "SONARLINT"
+                    }
+                ]
+            },
+            {
+                "name": "HU-004: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT"
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION"
+                    },
+                    {
+                        "name": "ATOMIC DESIGN"
+                    },
+                    {
+                        "name": "TEST UNITARIOS"
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS"
+                    },
+                    {
+                        "name": "SONARLINT"
+                    }
+                ]
+            },
+            {
+                "name": "HU-005: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT"
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION"
+                    },
+                    {
+                        "name": "ATOMIC DESIGN"
+                    },
+                    {
+                        "name": "TEST UNITARIOS"
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS"
+                    },
+                    {
+                        "name": "SONARLINT"
+                    }
+                ]
+            },
+            {
+                "name": "HU-006: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT"
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION"
+                    },
+                    {
+                        "name": "ATOMIC DESIGN"
+                    },
+                    {
+                        "name": "TEST UNITARIOS"
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS"
+                    },
+                    {
+                        "name": "SONARLINT"
+                    }
+                ]
+            },
+            {
+                "name": "HU-007: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT"
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION"
+                    },
+                    {
+                        "name": "ATOMIC DESIGN"
+                    },
+                    {
+                        "name": "TEST UNITARIOS"
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS"
+                    },
+                    {
+                        "name": "SONARLINT"
+                    }
+                ]
+            },
+            {
+                "name": "HU-008: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT"
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION"
+                    },
+                    {
+                        "name": "ATOMIC DESIGN"
+                    },
+                    {
+                        "name": "TEST UNITARIOS"
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS"
+                    },
+                    {
+                        "name": "SONARLINT"
+                    }
+                ]
+            },
+            {
+                "name": "HU-009: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT"
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION"
+                    },
+                    {
+                        "name": "ATOMIC DESIGN"
+                    },
+                    {
+                        "name": "TEST UNITARIOS"
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS"
+                    },
+                    {
+                        "name": "SONARLINT"
+                    }
+                ]
+            },
+            {
+                "name": "HU-010: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT"
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION"
+                    },
+                    {
+                        "name": "ATOMIC DESIGN"
+                    },
+                    {
+                        "name": "TEST UNITARIOS"
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS"
+                    },
+                    {
+                        "name": "SONARLINT"
+                    }
+                ]
+            },
+            {
+                "name": "HU-011: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT"
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION"
+                    },
+                    {
+                        "name": "ATOMIC DESIGN"
+                    },
+                    {
+                        "name": "TEST UNITARIOS"
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS"
+                    },
+                    {
+                        "name": "SONARLINT"
+                    }
+                ]
+            },
+            {
+                "name": "HU-012: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT"
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION"
+                    },
+                    {
+                        "name": "ATOMIC DESIGN"
+                    },
+                    {
+                        "name": "TEST UNITARIOS"
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS"
+                    },
+                    {
+                        "name": "SONARLINT"
+                    }
+                ]
+            },
+            {
+                "name": "HU-013: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT"
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION"
+                    },
+                    {
+                        "name": "ATOMIC DESIGN"
+                    },
+                    {
+                        "name": "TEST UNITARIOS"
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS"
+                    },
+                    {
+                        "name": "SONARLINT"
+                    }
+                ]
+            },
+            {
+                "name": "HU-014: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT"
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION"
+                    },
+                    {
+                        "name": "ATOMIC DESIGN"
+                    },
+                    {
+                        "name": "TEST UNITARIOS"
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS"
+                    },
+                    {
+                        "name": "SONARLINT"
+                    }
+                ]
+            },
+            {
+                "name": "HU-015: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT"
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION"
+                    },
+                    {
+                        "name": "ATOMIC DESIGN"
+                    },
+                    {
+                        "name": "TEST UNITARIOS"
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS"
+                    },
+                    {
+                        "name": "SONARLINT"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "AWS",
+        "chapter": "FRONTEND",
+        "userStories": [
+            {
+                "name": "Conceptos basicos [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTO"
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN"
+                    }
+                ]
+            },
+            {
+                "name": "IAM [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTO"
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN"
+                    }
+                ]
+            },
+            {
+                "name": "HU-003: [S3][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTO"
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN"
+                    }
+                ]
+            },
+            {
+                "name": "CLOUDFRONT [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTOS"
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN"
+                    }
+                ]
+            },
+            {
+                "name": "COGNITO [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTOS"
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN"
+                    }
+                ]
+            },
+            {
+                "name": "AMPLIFY [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTOS"
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN"
+                    }
+                ]
+            },
+            {
+                "name": "LAMBDA + API GATEWAY [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTOS"
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN"
+                    }
+                ]
+            },
+            {
+                "name": "LAMBDA - SERVERLESS (opcional) [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTOS"
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Bootcamp V3",
+        "chapter": "DEVOPS Y AWS",
+        "userStories": [
+            {
+                "name": "HU-001 [AVANCE][DEVOPS Y AWS]",
+                "knowledge": [
+                    {
+                        "name": "CRITERIOS DE ACEPTACIÓN"
+                    },
+                    {
+                        "name": "SEGUIR LA ARQUITECTURA"
+                    },
+                    {
+                        "name": "DESPLEGADO"
+                    },
+                    {
+                        "name": "TERMINADA"
+                    }
+                ]
+            },
+            {
+                "name": "HU-002 [AVANCE][DEVOPS Y AWS]",
+                "knowledge": [
+                    {
+                        "name": "CRITERIOS DE ACEPTACIÓN"
+                    },
+                    {
+                        "name": "SEGUIR LA ARQUITECTURA"
+                    },
+                    {
+                        "name": "DESPLEGADO"
+                    },
+                    {
+                        "name": "TERMINADA"
+                    }
+                ]
+            },
+            {
+                "name": "HU-003 [S3][DEVOPS Y AWS]",
+                "knowledge": [
+                    {
+                        "name": "CRITERIOS DE ACEPTACIÓN"
+                    },
+                    {
+                        "name": "SEGUIR LA ARQUITECTURA"
+                    },
+                    {
+                        "name": "DESPLEGADO"
+                    },
+                    {
+                        "name": "TERMINADA"
+                    }
+                ]
+            },
+            {
+                "name": "HU-004 [AVANCE][DEVOPS Y AWS]",
+                "knowledge": [
+                    {
+                        "name": "CRITERIOS DE ACEPTACIÓN"
+                    },
+                    {
+                        "name": "SEGUIR LA ARQUITECTURA"
+                    },
+                    {
+                        "name": "DESPLEGADO"
+                    },
+                    {
+                        "name": "TERMINDA"
+                    }
+                ]
+            },
+            {
+                "name": "HU-005 [AVANCE][DEVOPS Y AWS]",
+                "knowledge": [
+                    {
+                        "name": "CRITERIOS DE ACEPTACIÓN"
+                    },
+                    {
+                        "name": "SEGUIR LA ARQUITECTURA"
+                    },
+                    {
+                        "name": "DESPLEGADO"
+                    },
+                    {
+                        "name": "TERMINADA"
+                    }
+                ]
+            },
+            {
+                "name": "HU-006 [AVANCE][DEVOPS Y AWS]",
+                "knowledge": [
+                    {
+                        "name": "CRITERIOS DE ACEPTACIÓN"
+                    },
+                    {
+                        "name": "SEGUIR LA ARQUITECTURA"
+                    },
+                    {
+                        "name": "DESPLEGADO"
+                    },
+                    {
+                        "name": "TERMINADA"
+                    }
+                ]
+            },
+            {
+                "name": "HU-007 [AVANCE][DEVOPS Y AWS]",
+                "knowledge": [
+                    {
+                        "name": "CRITERIOS DE ACEPTACIÓN"
+                    },
+                    {
+                        "name": "SEGUIR LA ARQUITECTURA"
+                    },
+                    {
+                        "name": "DESPLEGADO"
+                    },
+                    {
+                        "name": "TERMINADA"
+                    }
+                ]
+            },
+            {
+                "name": "HU-008 [AVANCE][DEVOPS Y AWS]",
+                "knowledge": [
+                    {
+                        "name": "CRITERIOS DE ACEPTACIÓN"
+                    },
+                    {
+                        "name": "SEGUIR LA ARQUITECTURA"
+                    },
+                    {
+                        "name": "DESPLEGADO"
+                    },
+                    {
+                        "name": "TERMINADA"
+                    }
+                ]
+            },
+            {
+                "name": "HU-009 [AVANCE][DEVOPS Y AWS]",
+                "knowledge": [
+                    {
+                        "name": "CRITERIOS DE ACEPTACIÓN"
+                    },
+                    {
+                        "name": "SEGUIR LA ARQUITECTURA"
+                    },
+                    {
+                        "name": "DESPLEGADO"
+                    },
+                    {
+                        "name": "TERMINADA"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,1272 @@
+[
+    {
+        "startDate": "13/06/2023",
+        "name": "AWS",
+        "userStories": [
+            {
+                "endDate": "14/06/2023",
+                "name": "Conceptos basicos [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTO",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "14/06/2023",
+                "name": "IAM [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTO",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "15/06/2023",
+                "name": "HU-003: [S3][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTO",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "15/06/2023",
+                "name": "CLOUDFRONT [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "16/06/2023",
+                "name": "COGNITO [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "16/06/2023",
+                "name": "AMPLIFY [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "19/06/2023",
+                "name": "LAMBDA + API GATEWAY [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "19/06/2023",
+                "name": "LAMBDA - SERVERLESS (opcional) [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            }
+        ],
+        "userEmail": "fernando.monterroza@pragma.com.co"
+    },
+    {
+        "startDate": "01/06/2023",
+        "name": "AWS",
+        "userStories": [
+            {
+                "endDate": "20/06/2023",
+                "name": "Conceptos basicos [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTO",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "20/06/2023",
+                "name": "IAM [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTO",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "20/06/2023",
+                "name": "HU-003: [S3][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTO",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "20/06/2023",
+                "name": "CLOUDFRONT [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "20/06/2023",
+                "name": "COGNITO [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "20/06/2023",
+                "name": "AMPLIFY [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "20/06/2023",
+                "name": "LAMBDA + API GATEWAY [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "20/06/2023",
+                "name": "LAMBDA - SERVERLESS (opcional) [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            }
+        ],
+        "userEmail": "duvan.giraldo@pragma.com.co"
+    },
+    {
+        "startDate": "20/06/2023",
+        "name": "AWS",
+        "userStories": [
+            {
+                "endDate": "20/06/2023",
+                "name": "Conceptos basicos [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTO",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "21/06/2023",
+                "name": "IAM [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTO",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "21/06/2023",
+                "name": "HU-003: [S3][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTO",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            }
+        ],
+        "userEmail": "carlos.almanza@pragma.com.co"
+    },
+    {
+        "startDate": "14/06/2023",
+        "name": "AWS",
+        "userStories": [
+            {
+                "endDate": "14/06/2023",
+                "name": "Conceptos basicos [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTO",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "15/06/2023",
+                "name": "IAM [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTO",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "16/06/2023",
+                "name": "HU-003: [S3][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTO",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "16/06/2023",
+                "name": "CLOUDFRONT [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "20/06/2023",
+                "name": "COGNITO [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "20/06/2023",
+                "name": "AMPLIFY [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "20/06/2023",
+                "name": "LAMBDA + API GATEWAY [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "20/06/2023",
+                "name": "LAMBDA - SERVERLESS (opcional) [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            }
+        ],
+        "userEmail": "carlos.gomez@pragma.com.co"
+    },
+    {
+        "startDate": "20/06/2023",
+        "name": "FRONTEND",
+        "userStories": [
+            {
+                "endDate": "20/06/2023",
+                "name": "HU-001: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT",
+                        "completed": true
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION",
+                        "completed": true
+                    },
+                    {
+                        "name": "TEST UNITARIOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "ATOMIC DESIGN",
+                        "completed": true
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS",
+                        "completed": true
+                    },
+                    {
+                        "name": "SONARLINT",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "21/06/2023",
+                "name": "HU-002: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT",
+                        "completed": true
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION",
+                        "completed": true
+                    },
+                    {
+                        "name": "ATOMIC DESIGN",
+                        "completed": true
+                    },
+                    {
+                        "name": "TEST UNITARIOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS",
+                        "completed": true
+                    },
+                    {
+                        "name": "SONARLINT",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "22/06/2023",
+                "name": "HU-003: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT",
+                        "completed": true
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION",
+                        "completed": true
+                    },
+                    {
+                        "name": "ARQUITECTURA HEXAGONAL",
+                        "completed": true
+                    },
+                    {
+                        "name": "TEST UNITARIOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS",
+                        "completed": true
+                    },
+                    {
+                        "name": "SONARLINT",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "26/06/2023",
+                "name": "HU-004: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT",
+                        "completed": true
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION",
+                        "completed": true
+                    },
+                    {
+                        "name": "ATOMIC DESIGN",
+                        "completed": true
+                    },
+                    {
+                        "name": "TEST UNITARIOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS",
+                        "completed": true
+                    },
+                    {
+                        "name": "SONARLINT",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "26/06/2023",
+                "name": "HU-005: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT",
+                        "completed": true
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION",
+                        "completed": true
+                    },
+                    {
+                        "name": "ATOMIC DESIGN",
+                        "completed": true
+                    },
+                    {
+                        "name": "TEST UNITARIOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS",
+                        "completed": true
+                    },
+                    {
+                        "name": "SONARLINT",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "29/06/2023",
+                "name": "HU-006: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT",
+                        "completed": true
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION",
+                        "completed": true
+                    },
+                    {
+                        "name": "ATOMIC DESIGN",
+                        "completed": true
+                    },
+                    {
+                        "name": "TEST UNITARIOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS",
+                        "completed": true
+                    },
+                    {
+                        "name": "SONARLINT",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "30/06/2023",
+                "name": "HU-007: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT",
+                        "completed": true
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION",
+                        "completed": true
+                    },
+                    {
+                        "name": "ATOMIC DESIGN",
+                        "completed": true
+                    },
+                    {
+                        "name": "TEST UNITARIOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS",
+                        "completed": true
+                    },
+                    {
+                        "name": "SONARLINT",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "30/06/2023",
+                "name": "HU-008: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT",
+                        "completed": true
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION",
+                        "completed": true
+                    },
+                    {
+                        "name": "ATOMIC DESIGN",
+                        "completed": true
+                    },
+                    {
+                        "name": "TEST UNITARIOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS",
+                        "completed": true
+                    },
+                    {
+                        "name": "SONARLINT",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "30/06/2023",
+                "name": "HU-009: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT",
+                        "completed": true
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION",
+                        "completed": true
+                    },
+                    {
+                        "name": "ATOMIC DESIGN",
+                        "completed": true
+                    },
+                    {
+                        "name": "TEST UNITARIOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS",
+                        "completed": true
+                    },
+                    {
+                        "name": "SONARLINT",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "30/06/2023",
+                "name": "HU-010: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT",
+                        "completed": true
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION",
+                        "completed": true
+                    },
+                    {
+                        "name": "ATOMIC DESIGN",
+                        "completed": true
+                    },
+                    {
+                        "name": "TEST UNITARIOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS",
+                        "completed": true
+                    },
+                    {
+                        "name": "SONARLINT",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "30/07/2023",
+                "name": "HU-011: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT",
+                        "completed": true
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION",
+                        "completed": true
+                    },
+                    {
+                        "name": "ATOMIC DESIGN",
+                        "completed": true
+                    },
+                    {
+                        "name": "TEST UNITARIOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS",
+                        "completed": true
+                    },
+                    {
+                        "name": "SONARLINT",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "04/07/2023",
+                "name": "HU-012: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT",
+                        "completed": true
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION",
+                        "completed": true
+                    },
+                    {
+                        "name": "ATOMIC DESIGN",
+                        "completed": true
+                    },
+                    {
+                        "name": "TEST UNITARIOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS",
+                        "completed": true
+                    },
+                    {
+                        "name": "SONARLINT",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "05/07/2023",
+                "name": "HU-013: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT",
+                        "completed": true
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION",
+                        "completed": true
+                    },
+                    {
+                        "name": "ATOMIC DESIGN",
+                        "completed": true
+                    },
+                    {
+                        "name": "TEST UNITARIOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS",
+                        "completed": true
+                    },
+                    {
+                        "name": "SONARLINT",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "07/07/2023",
+                "name": "HU-015: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT",
+                        "completed": true
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION",
+                        "completed": true
+                    },
+                    {
+                        "name": "ATOMIC DESIGN",
+                        "completed": true
+                    },
+                    {
+                        "name": "TEST UNITARIOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS",
+                        "completed": true
+                    },
+                    {
+                        "name": "SONARLINT",
+                        "completed": true
+                    }
+                ]
+            }
+        ],
+        "userEmail": "sebastian.guerrero@pragma.com.co"
+    },
+    {
+        "startDate": "20/06/2023",
+        "name": "AWS",
+        "userStories": [
+            {
+                "endDate": "20/06/2023",
+                "name": "Conceptos basicos [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTO",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "21/06/2023",
+                "name": "IAM [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTO",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "22/07/2023",
+                "name": "HU-003: [S3][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTO",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "04/07/2023",
+                "name": "CLOUDFRONT [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "06/07/2023",
+                "name": "COGNITO [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "07/07/2023",
+                "name": "AMPLIFY [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "22/06/2023",
+                "name": "LAMBDA + API GATEWAY [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "07/07/2023",
+                "name": "LAMBDA - SERVERLESS (opcional) [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            }
+        ],
+        "userEmail": "sebastian.guerrero@pragma.com.co"
+    },
+    {
+        "startDate": "20/06/2023",
+        "name": "FRONTEND",
+        "userStories": [
+            {
+                "endDate": "22/06/2023",
+                "name": "HU-001: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT",
+                        "completed": true
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION",
+                        "completed": true
+                    },
+                    {
+                        "name": "TEST UNITARIOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "ATOMIC DESIGN",
+                        "completed": true
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS",
+                        "completed": true
+                    },
+                    {
+                        "name": "SONARLINT",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "22/06/2023",
+                "name": "HU-002: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT",
+                        "completed": true
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION",
+                        "completed": true
+                    },
+                    {
+                        "name": "ATOMIC DESIGN",
+                        "completed": true
+                    },
+                    {
+                        "name": "TEST UNITARIOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS",
+                        "completed": true
+                    },
+                    {
+                        "name": "SONARLINT",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "23/06/2023",
+                "name": "HU-003: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT",
+                        "completed": true
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION",
+                        "completed": true
+                    },
+                    {
+                        "name": "ARQUITECTURA HEXAGONAL",
+                        "completed": true
+                    },
+                    {
+                        "name": "TEST UNITARIOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS",
+                        "completed": true
+                    },
+                    {
+                        "name": "SONARLINT",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "26/06/2023",
+                "name": "HU-004: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT",
+                        "completed": true
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION",
+                        "completed": true
+                    },
+                    {
+                        "name": "ATOMIC DESIGN",
+                        "completed": true
+                    },
+                    {
+                        "name": "TEST UNITARIOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS",
+                        "completed": true
+                    },
+                    {
+                        "name": "SONARLINT",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "27/06/2023",
+                "name": "HU-005: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT",
+                        "completed": true
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION",
+                        "completed": true
+                    },
+                    {
+                        "name": "ATOMIC DESIGN",
+                        "completed": true
+                    },
+                    {
+                        "name": "TEST UNITARIOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS",
+                        "completed": true
+                    },
+                    {
+                        "name": "SONARLINT",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "28/06/2023",
+                "name": "HU-006: [AVANCE][FRONTEND]",
+                "knowledge": [
+                    {
+                        "name": "GIT",
+                        "completed": true
+                    },
+                    {
+                        "name": "CRITERIOS DE ACEPTACION",
+                        "completed": true
+                    },
+                    {
+                        "name": "ATOMIC DESIGN",
+                        "completed": true
+                    },
+                    {
+                        "name": "TEST UNITARIOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "BUENAS PRACTICAS",
+                        "completed": true
+                    },
+                    {
+                        "name": "SONARLINT",
+                        "completed": true
+                    }
+                ]
+            }
+        ],
+        "userEmail": "cristian.quintero@pragma.com.co"
+    },
+    {
+        "startDate": "20/07/2023",
+        "name": "AWS",
+        "userStories": [],
+        "userEmail": "cristian.quintero@pragma.com.co"
+    },
+    {
+        "startDate": "27/06/2023",
+        "name": "AWS",
+        "userStories": [
+            {
+                "endDate": "27/06/2023",
+                "name": "Conceptos basicos [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTO",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "27/06/2023",
+                "name": "IAM [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTO",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "28/06/2023",
+                "name": "HU-003: [S3][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTO",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "28/06/2023",
+                "name": "CLOUDFRONT [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "29/06/2023",
+                "name": "COGNITO [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "29/06/2023",
+                "name": "AMPLIFY [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "30/06/2023",
+                "name": "LAMBDA + API GATEWAY [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            },
+            {
+                "endDate": "04/07/2023",
+                "name": "LAMBDA - SERVERLESS (opcional) [AVANCE][AWS]",
+                "knowledge": [
+                    {
+                        "name": "CONCEPTOS",
+                        "completed": true
+                    },
+                    {
+                        "name": "IMPLEMENTACIÓN",
+                        "completed": true
+                    }
+                ]
+            }
+        ],
+        "userEmail": "said.rey@pragma.com.co"
+    },
+    {
+        "startDate": "24/07/2023",
+        "name": "AWS",
+        "userStories": [],
+        "userEmail": "kenny.luque@pragma.com.co"
+    }
+]

@@ -1,0 +1,1843 @@
+[
+    [
+        {
+            "startDate": "24/07/2023",
+            "name": "BACKEND",
+            "userStories": [
+                {
+                    "endDate": "10/05/2023",
+                    "name": "HU-001: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "30/05/2023",
+                    "name": "HU-002: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "10/06/2023",
+                    "name": "HU-003: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "01/06/2023",
+                    "name": "HU-004: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "02/06/2023",
+                    "name": "HU-005: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "09/06/2023",
+                    "name": "HU-006: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "08/06/2023",
+                    "name": "HU-007: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "12/05/2023",
+                    "name": "HU-008: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "03/06/2023",
+                    "name": "HU-009: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "03/06/2023",
+                    "name": "HU-010: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "02/06/2023",
+                    "name": "HU-011: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "09/06/2023",
+                    "name": "HU-012: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "10/06/2023",
+                    "name": "HU-013: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "11/06/2023",
+                    "name": "HU-014: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "13/05/2023",
+                    "name": "HU-015: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "09/05/2023",
+                    "name": "HU-016: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "11/06/2023",
+                    "name": "HU-017: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "03/06/2023",
+                    "name": "HU-018: [AVANCE][BACKEND]",
+                    "knowledge": []
+                }
+            ],
+            "userEmail": "david.tolosa@pragma.com.co"
+        }
+    ],
+    [
+        {
+            "startDate": "29/05/2023",
+            "name": "BACKEND",
+            "userStories": [
+                {
+                    "endDate": "31/05/2023",
+                    "name": "HU-001: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "01/06/2023",
+                    "name": "HU-002: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "05/06/2023",
+                    "name": "HU-003: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "01/06/2023",
+                    "name": "HU-004: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "05/06/2023",
+                    "name": "HU-005: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "05/06/2023",
+                    "name": "HU-006: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "05/06/2023",
+                    "name": "HU-007: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "05/06/2023",
+                    "name": "HU-008: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "06/06/2023",
+                    "name": "HU-009: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "06/06/2023",
+                    "name": "HU-010: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "07/06/2023",
+                    "name": "HU-011: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "09/06/2023",
+                    "name": "HU-012: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "13/06/2023",
+                    "name": "HU-013: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "15/06/2023",
+                    "name": "HU-014: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "16/06/2023",
+                    "name": "HU-015: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "16/06/2023",
+                    "name": "HU-016: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-017: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-018: [AVANCE][BACKEND]",
+                    "knowledge": []
+                }
+            ],
+            "userEmail": "edwin.ariza@pragma.com.co"
+        }
+    ],
+    [
+        {
+            "startDate": "29/05/2023",
+            "name": "BACKEND",
+            "userStories": [
+                {
+                    "endDate": "14/06/2023",
+                    "name": "HU-001: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "14/06/2023",
+                    "name": "HU-002: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "14/06/2023",
+                    "name": "HU-003: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "14/06/2023",
+                    "name": "HU-004: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "19/06/2023",
+                    "name": "HU-005: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "14/06/2023",
+                    "name": "HU-006: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "14/06/2023",
+                    "name": "HU-007: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "14/06/2023",
+                    "name": "HU-008: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "15/06/2023",
+                    "name": "HU-009: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "15/06/2023",
+                    "name": "HU-010: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "19/06/2023",
+                    "name": "HU-011: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-012: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-013: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-014: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-015: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-016: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-017: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-018: [AVANCE][BACKEND]",
+                    "knowledge": []
+                }
+            ],
+            "userEmail": "josue.gutierrez@pragma.com.co"
+        }
+    ],
+    [
+        {
+            "startDate": "24/07/2023",
+            "name": "BACKEND",
+            "userStories": [
+                {
+                    "endDate": "01/06/2023",
+                    "name": "HU-001: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "02/06/2023",
+                    "name": "HU-002: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "05/06/2023",
+                    "name": "HU-003: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "05/06/2023",
+                    "name": "HU-004: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "06/06/2023",
+                    "name": "HU-005: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "06/06/2023",
+                    "name": "HU-006: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "07/06/2023",
+                    "name": "HU-007: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "07/06/2023",
+                    "name": "HU-008: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "08/06/2023",
+                    "name": "HU-009: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "08/06/2023",
+                    "name": "HU-010: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "09/06/2023",
+                    "name": "HU-011: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-012: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-013: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-014: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-015: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-016: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-017: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-018: [AVANCE][BACKEND]",
+                    "knowledge": []
+                }
+            ],
+            "userEmail": "samuel.gil@pragma.com.co"
+        }
+    ],
+    [
+        {
+            "startDate": "24/07/2023",
+            "name": "BACKEND",
+            "userStories": [
+                {
+                    "endDate": "15/05/2023",
+                    "name": "HU-001: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "16/05/2023",
+                    "name": "HU-002: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "17/05/2023",
+                    "name": "HU-003: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "18/05/2023",
+                    "name": "HU-004: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "22/05/2023",
+                    "name": "HU-005: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "23/05/2023",
+                    "name": "HU-006: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "24/05/2023",
+                    "name": "HU-007: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "25/05/2023",
+                    "name": "HU-008: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "26/05/2023",
+                    "name": "HU-009: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "30/05/2023",
+                    "name": "HU-010: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "01/06/2023",
+                    "name": "HU-011: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "02/06/2023",
+                    "name": "HU-012: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-013: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-014: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-015: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-016: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-017: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-018: [AVANCE][BACKEND]",
+                    "knowledge": []
+                }
+            ],
+            "userEmail": "camilo.garcia@pragma.com.co"
+        }
+    ],
+    [
+        {
+            "startDate": "29/05/2023",
+            "name": "BACKEND",
+            "userStories": [
+                {
+                    "endDate": "05/06/2023",
+                    "name": "HU-001: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "15/06/2023",
+                    "name": "HU-002: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "15/06/2023",
+                    "name": "HU-003: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "15/06/2023",
+                    "name": "HU-004: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "15/06/2023",
+                    "name": "HU-005: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "15/06/2023",
+                    "name": "HU-006: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "15/06/2023",
+                    "name": "HU-007: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "15/06/2023",
+                    "name": "HU-008: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "15/06/2023",
+                    "name": "HU-009: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "15/06/2023",
+                    "name": "HU-010: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "21/06/2023",
+                    "name": "HU-011: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "21/06/2023",
+                    "name": "HU-012: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "21/06/2023",
+                    "name": "HU-013: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-014: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-015: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-016: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-017: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-018: [AVANCE][BACKEND]",
+                    "knowledge": []
+                }
+            ],
+            "userEmail": "sebastian.pineda@pragma.com.co"
+        }
+    ],
+    [
+        {
+            "startDate": "30/06/2023",
+            "name": "BACKEND",
+            "userStories": [
+                {
+                    "endDate": "02/06/2023",
+                    "name": "HU-001: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "02/06/2023",
+                    "name": "HU-002: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "02/06/2023",
+                    "name": "HU-003: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-004: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-005: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-006: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-007: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-008: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-009: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-010: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-011: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-012: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-013: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-014: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-015: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-016: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-017: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-018: [AVANCE][BACKEND]",
+                    "knowledge": []
+                }
+            ],
+            "userEmail": "clark.isla@pragma.com.co"
+        }
+    ],
+    [
+        {
+            "startDate": "30/06/2023",
+            "name": "BACKEND",
+            "userStories": [
+                {
+                    "endDate": "24/05/2023",
+                    "name": "HU-001: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "25/05/2023",
+                    "name": "HU-002: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "25/05/2023",
+                    "name": "HU-003: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "26/05/2023",
+                    "name": "HU-004: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "29/05/2023",
+                    "name": "HU-005: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "30/05/2023",
+                    "name": "HU-006: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "31/05/2023",
+                    "name": "HU-007: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "01/06/2023",
+                    "name": "HU-008: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-009: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-010: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-011: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-012: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-013: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-014: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-015: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-016: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-017: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-018: [AVANCE][BACKEND]",
+                    "knowledge": []
+                }
+            ],
+            "userEmail": "hector.sanchezt@pragma.com.co"
+        }
+    ],
+    [
+        {
+            "startDate": "30/06/2023",
+            "name": "BACKEND",
+            "userStories": [
+                {
+                    "endDate": null,
+                    "name": "HU-001: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-002: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-003: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-004: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-005: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-006: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-007: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-008: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-009: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-010: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-011: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-012: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-013: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-014: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-015: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-016: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-017: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-018: [AVANCE][BACKEND]",
+                    "knowledge": []
+                }
+            ],
+            "userEmail": "sebastian.alfaro@pragma.com.co"
+        }
+    ],
+    [
+        {
+            "startDate": "13/06/2023",
+            "name": "BACKEND",
+            "userStories": [
+                {
+                    "endDate": "14/06/2023",
+                    "name": "HU-001: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "15/06/2023",
+                    "name": "HU-002: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "16/06/2023",
+                    "name": "HU-003: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "16/06/2023",
+                    "name": "HU-004: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-005: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-006: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-007: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-008: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-009: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-010: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-011: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-012: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-013: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-014: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-015: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-016: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-017: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-018: [AVANCE][BACKEND]",
+                    "knowledge": []
+                }
+            ],
+            "userEmail": "david.zuluaga@pragma.com.co"
+        }
+    ],
+    [
+        {
+            "startDate": "13/06/2023",
+            "name": "AWS",
+            "userStories": [
+                {
+                    "endDate": "14/06/2023",
+                    "name": "Conceptos basicos [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "14/06/2023",
+                    "name": "IAM [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "15/06/2023",
+                    "name": "HU-003: [S3][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "15/06/2023",
+                    "name": "CLOUDFRONT [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "16/06/2023",
+                    "name": "COGNITO [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "16/06/2023",
+                    "name": "AMPLIFY [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "19/06/2023",
+                    "name": "LAMBDA + API GATEWAY [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "19/06/2023",
+                    "name": "LAMBDA - SERVERLESS (opcional) [AVANCE][AWS]",
+                    "knowledge": []
+                }
+            ],
+            "userEmail": "fernando.monterroza@pragma.com.co"
+        }
+    ],
+    [
+        {
+            "startDate": "01/06/2023",
+            "name": "AWS",
+            "userStories": [
+                {
+                    "endDate": "20/06/2023",
+                    "name": "Conceptos basicos [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "20/06/2023",
+                    "name": "IAM [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "20/06/2023",
+                    "name": "HU-003: [S3][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "20/06/2023",
+                    "name": "CLOUDFRONT [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "20/06/2023",
+                    "name": "COGNITO [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "20/06/2023",
+                    "name": "AMPLIFY [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "20/06/2023",
+                    "name": "LAMBDA + API GATEWAY [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "20/06/2023",
+                    "name": "LAMBDA - SERVERLESS (opcional) [AVANCE][AWS]",
+                    "knowledge": []
+                }
+            ],
+            "userEmail": "duvan.giraldo@pragma.com.co"
+        }
+    ],
+    [
+        {
+            "startDate": "20/06/2023",
+            "name": "AWS",
+            "userStories": [
+                {
+                    "endDate": "20/06/2023",
+                    "name": "Conceptos basicos [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "21/06/2023",
+                    "name": "IAM [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "21/06/2023",
+                    "name": "HU-003: [S3][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "CLOUDFRONT [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "COGNITO [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "AMPLIFY [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "LAMBDA + API GATEWAY [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "LAMBDA - SERVERLESS (opcional) [AVANCE][AWS]",
+                    "knowledge": []
+                }
+            ],
+            "userEmail": "carlos.almanza@pragma.com.co"
+        }
+    ],
+    [
+        {
+            "startDate": "14/06/2023",
+            "name": "AWS",
+            "userStories": [
+                {
+                    "endDate": "14/06/2023",
+                    "name": "Conceptos basicos [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "15/06/2023",
+                    "name": "IAM [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "16/06/2023",
+                    "name": "HU-003: [S3][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "16/06/2023",
+                    "name": "CLOUDFRONT [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "20/06/2023",
+                    "name": "COGNITO [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "20/06/2023",
+                    "name": "AMPLIFY [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "20/06/2023",
+                    "name": "LAMBDA + API GATEWAY [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "20/06/2023",
+                    "name": "LAMBDA - SERVERLESS (opcional) [AVANCE][AWS]",
+                    "knowledge": []
+                }
+            ],
+            "userEmail": "carlos.gomez@pragma.com.co"
+        }
+    ],
+    [
+        {
+            "startDate": "20/06/2023",
+            "name": "FRONTEND",
+            "userStories": [
+                {
+                    "endDate": "20/06/2023",
+                    "name": "HU-001: [AVANCE][FRONTEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "21/06/2023",
+                    "name": "HU-002: [AVANCE][FRONTEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "22/06/2023",
+                    "name": "HU-003: [AVANCE][FRONTEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "26/06/2023",
+                    "name": "HU-004: [AVANCE][FRONTEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "26/06/2023",
+                    "name": "HU-005: [AVANCE][FRONTEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "29/06/2023",
+                    "name": "HU-006: [AVANCE][FRONTEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "30/06/2023",
+                    "name": "HU-007: [AVANCE][FRONTEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "30/06/2023",
+                    "name": "HU-008: [AVANCE][FRONTEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "30/06/2023",
+                    "name": "HU-009: [AVANCE][FRONTEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "30/06/2023",
+                    "name": "HU-010: [AVANCE][FRONTEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "30/07/2023",
+                    "name": "HU-011: [AVANCE][FRONTEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "04/07/2023",
+                    "name": "HU-012: [AVANCE][FRONTEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "05/07/2023",
+                    "name": "HU-013: [AVANCE][FRONTEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-014: [AVANCE][FRONTEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "07/07/2023",
+                    "name": "HU-015: [AVANCE][FRONTEND]",
+                    "knowledge": []
+                }
+            ],
+            "userEmail": "sebastian.guerrero@pragma.com.co"
+        },
+        {
+            "startDate": "20/06/2023",
+            "name": "AWS",
+            "userStories": [
+                {
+                    "endDate": "20/06/2023",
+                    "name": "Conceptos basicos [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "21/06/2023",
+                    "name": "IAM [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "22/07/2023",
+                    "name": "HU-003: [S3][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "04/07/2023",
+                    "name": "CLOUDFRONT [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "06/07/2023",
+                    "name": "COGNITO [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "07/07/2023",
+                    "name": "AMPLIFY [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "22/06/2023",
+                    "name": "LAMBDA + API GATEWAY [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "07/07/2023",
+                    "name": "LAMBDA - SERVERLESS (opcional) [AVANCE][AWS]",
+                    "knowledge": []
+                }
+            ],
+            "userEmail": "sebastian.guerrero@pragma.com.co"
+        }
+    ],
+    [
+        {
+            "startDate": "20/06/2023",
+            "name": "FRONTEND",
+            "userStories": [
+                {
+                    "endDate": "22/06/2023",
+                    "name": "HU-001: [AVANCE][FRONTEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "22/06/2023",
+                    "name": "HU-002: [AVANCE][FRONTEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "23/06/2023",
+                    "name": "HU-003: [AVANCE][FRONTEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "26/06/2023",
+                    "name": "HU-004: [AVANCE][FRONTEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "27/06/2023",
+                    "name": "HU-005: [AVANCE][FRONTEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "28/06/2023",
+                    "name": "HU-006: [AVANCE][FRONTEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-007: [AVANCE][FRONTEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-008: [AVANCE][FRONTEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-009: [AVANCE][FRONTEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-010: [AVANCE][FRONTEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-011: [AVANCE][FRONTEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-012: [AVANCE][FRONTEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-013: [AVANCE][FRONTEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-014: [AVANCE][FRONTEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-015: [AVANCE][FRONTEND]",
+                    "knowledge": []
+                }
+            ],
+            "userEmail": "cristian.quintero@pragma.com.co"
+        },
+        {
+            "startDate": "20/07/2023",
+            "name": "AWS",
+            "userStories": [
+                {
+                    "endDate": null,
+                    "name": "Conceptos basicos [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "IAM [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-003: [S3][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "CLOUDFRONT [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "COGNITO [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "AMPLIFY [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "LAMBDA + API GATEWAY [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "LAMBDA - SERVERLESS (opcional) [AVANCE][AWS]",
+                    "knowledge": []
+                }
+            ],
+            "userEmail": "cristian.quintero@pragma.com.co"
+        }
+    ],
+    [
+        {
+            "startDate": "26/06/2023",
+            "name": "BACKEND",
+            "userStories": [
+                {
+                    "endDate": "27/06/2023",
+                    "name": "HU-001: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "28/06/2023",
+                    "name": "HU-002: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-003: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-004: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-005: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-006: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-007: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-008: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-009: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-010: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-011: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-012: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-013: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-014: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-015: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-016: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-017: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-018: [AVANCE][BACKEND]",
+                    "knowledge": []
+                }
+            ],
+            "userEmail": "camilo.alvarez@pragma.com.co"
+        }
+    ],
+    [
+        {
+            "startDate": "27/06/2023",
+            "name": "AWS",
+            "userStories": [
+                {
+                    "endDate": "27/06/2023",
+                    "name": "Conceptos basicos [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "27/06/2023",
+                    "name": "IAM [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "28/06/2023",
+                    "name": "HU-003: [S3][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "28/06/2023",
+                    "name": "CLOUDFRONT [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "29/06/2023",
+                    "name": "COGNITO [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "29/06/2023",
+                    "name": "AMPLIFY [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "30/06/2023",
+                    "name": "LAMBDA + API GATEWAY [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": "04/07/2023",
+                    "name": "LAMBDA - SERVERLESS (opcional) [AVANCE][AWS]",
+                    "knowledge": []
+                }
+            ],
+            "userEmail": "said.rey@pragma.com.co"
+        }
+    ],
+    [
+        {
+            "startDate": "24/07/2023",
+            "name": "BACKEND",
+            "userStories": [
+                {
+                    "endDate": null,
+                    "name": "HU-001: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-002: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-003: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-004: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-005: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-006: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-007: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-008: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-009: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-010: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-011: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-012: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-013: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-014: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-015: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-016: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-017: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-018: [AVANCE][BACKEND]",
+                    "knowledge": []
+                }
+            ],
+            "userEmail": "kenny.luque@pragma.com.co"
+        },
+        {
+            "startDate": "24/07/2023",
+            "name": "AWS",
+            "userStories": [
+                {
+                    "endDate": null,
+                    "name": "Conceptos basicos [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "IAM [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-003: [S3][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "CLOUDFRONT [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "COGNITO [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "AMPLIFY [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "LAMBDA + API GATEWAY [AVANCE][AWS]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "LAMBDA - SERVERLESS (opcional) [AVANCE][AWS]",
+                    "knowledge": []
+                }
+            ],
+            "userEmail": "kenny.luque@pragma.com.co"
+        }
+    ],
+    [
+        {
+            "startDate": "24/07/2023",
+            "name": "BACKEND",
+            "userStories": [
+                {
+                    "endDate": null,
+                    "name": "HU-001: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-002: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-003: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-004: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-005: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-006: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-007: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-008: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-009: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-010: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-011: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-012: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-013: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-014: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-015: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-016: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-017: [AVANCE][BACKEND]",
+                    "knowledge": []
+                },
+                {
+                    "endDate": null,
+                    "name": "HU-018: [AVANCE][BACKEND]",
+                    "knowledge": []
+                }
+            ],
+            "userEmail": "enzo.villanueva@pragma.com.co"
+        }
+    ]
+]
