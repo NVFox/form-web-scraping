@@ -23,8 +23,8 @@ def get_route_traces():
         json.dump(request_service.get_all_route_progress(), file, indent=4, ensure_ascii=False)
 
 def get_routes():
-    routes = get_all_routes(["https://classroom.google.com/c/NTQ4ODk5ODQzMDU5", 
-                             "https://classroom.google.com/c/NjE1MTgwNzcxNDY0"])
+    routes = get_all_routes(["##link", 
+                             "##link"])
     
     with open("routes.json", 'w') as file:
         json.dump(routes, file, indent=4, ensure_ascii=False)
