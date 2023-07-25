@@ -7,7 +7,7 @@ def main():
     post_update_traces()
     
 def post_update_traces():
-    request_service = RequestService("https://e8rlyqccll.execute-api.us-east-1.amazonaws.com/prod/updateRouteTrace", "pAli6cEcj61hv7a0z1FJ41z6kHoIbwpj1ucVGyp2")
+    request_service = RequestService("##", "##")
     request_service.post_all_traces()
     
 def get_updated_traces():
@@ -17,7 +17,7 @@ def get_updated_traces():
         json.dump(update_trace_service.update_route(), file, indent=4, ensure_ascii=False)
     
 def get_route_traces():
-    request_service = RequestService("https://e8rlyqccll.execute-api.us-east-1.amazonaws.com/prod/getRouteProgressForm", "pAli6cEcj61hv7a0z1FJ41z6kHoIbwpj1ucVGyp2")
+    request_service = RequestService("##", "##")
     
     with open("traces.json", 'w') as file:
         json.dump(request_service.get_all_route_progress(), file, indent=4, ensure_ascii=False)
